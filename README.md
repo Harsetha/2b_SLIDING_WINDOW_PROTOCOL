@@ -42,7 +42,7 @@ while True:
 
 ## OUPUT
 
-![323147011-93da198f-a03c-4eb4-ae37-a329ed6a867c](https://github.com/Harsetha/2b_SLIDING_WINDOW_PROTOCOL/assets/149985878/4639507b-cdca-493f-9836-1077378f69c7)
+![323147011-93da198f-a03c-4eb4-ae37-a329ed6a867c](https://github.com/Harsetha/2b_SLIDING_WINDOW_PROTOCOL/assets/149985878/d6b07fb0-23ef-4cd3-86aa-b3365fce9084)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
